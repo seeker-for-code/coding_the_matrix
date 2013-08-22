@@ -51,18 +51,16 @@ def is_echelon(A):
 ## Problem 3
 # Give each answer as a list
 
-echelon_form_vec_a = ...
-echelon_form_vec_b = ...
-echelon_form_vec_c = ...
+echelon_form_vec_a = [1, 0, 3, 0]
+echelon_form_vec_b = [-3, 0, -2, 3]
+echelon_form_vec_c = [-5, 0, 2, 0, 2]
 
 
-
-## Problem 4
 # If a solution exists, give it as a list vector.
 # If no solution exists, provide "None".
 
-solving_with_echelon_form_a = ...
-solving_with_echelon_form_b = ...
+solving_with_echelon_form_a = None
+solving_with_echelon_form_b = [21, 0, 2, 0, 0]
 
 
 
